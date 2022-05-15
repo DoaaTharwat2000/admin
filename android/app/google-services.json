@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "425507352046",
+    "project_id": "bi-trace-ff9cd",
+    "storage_bucket": "bi-trace-ff9cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425507352046:android:8d1d35fa5cc0fb642cb2ff",
+        "android_client_info": {
+          "package_name": "com.socitytechnologies.bi_tracer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "425507352046-fgqu041ioivtu33egg87ucdm5vba43gi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcOFsFrN4H5Z4kcfW5My5phSK5IYdqcO8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "425507352046-fgqu041ioivtu33egg87ucdm5vba43gi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
